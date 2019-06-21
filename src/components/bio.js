@@ -37,12 +37,13 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
+            <p style={{
+              textAlign: `justify`
+            }}>
+              Written by <strong>{author}</strong>, an EdTech enthusiast focusing on improving accessibility for children with autism spectrum disorders, event management, and sustainability.
+              <br />
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Follow me on Twitter!
               </a>
             </p>
           </div>

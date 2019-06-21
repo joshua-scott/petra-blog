@@ -43,7 +43,7 @@ function Bio() {
             }}>
               Written by <strong>{author}</strong>, an EdTech enthusiast focusing on improving accessibility for children with autism spectrum disorders, event management, and sustainability.
               <br />
-              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener">
                 Follow me on Twitter!
               </a>
             </p>

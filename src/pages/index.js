@@ -22,7 +22,8 @@ class BlogIndex extends React.Component {
             <div key={node.fields.slug}>
               <h2
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginTop: rhythm(1 / 2),
+                  marginBottom: rhythm(1 / 2),
                   fontWeight: 700
                 }}
               >

@@ -39,7 +39,7 @@ function Bio() {
               }}
             />
             <p style={{
-              textAlign: `justify`
+              textAlign: `justify`,
             }}>
               Written by <strong>{author}</strong>, an EdTech enthusiast focusing on improving accessibility for children with autism spectrum disorders, event management, and sustainability.
               <br />

@@ -41,7 +41,7 @@ function Bio() {
             <p style={{
               textAlign: `justify`,
             }}>
-              Written by <strong>{author}</strong>, an EdTech enthusiast focusing on improving accessibility for children with autism spectrum disorders, event management, and sustainability.
+              Written by <strong>{author}</strong>, an EdTech enthusiast with a passion for improving accessibility for children with autism spectrum disorders, event management, and sustainability.
               <br />
               <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener noreferrer">
                 Follow me on Twitter!

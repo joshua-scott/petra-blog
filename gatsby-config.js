@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ed Tech For All`,
+    title: `Inclusive EdTech`,
     author: `Petra Kucharova`,
     description: ``,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,

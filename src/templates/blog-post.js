@@ -20,7 +20,8 @@ class BlogPostTemplate extends React.Component {
         />
         <h1
           style={{
-            color: colors.salmon
+            color: colors.salmon,
+            fontWeight: 700
           }}
         >{post.frontmatter.title}</h1>
         <p

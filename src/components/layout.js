@@ -37,7 +37,8 @@ class Layout extends React.Component {
         <h3
           style={{
             marginTop: 0,
-            color: colors.blue
+            color: colors.blue,
+            fontWeight: 700
           }}
         >
           <Link
@@ -58,12 +59,18 @@ class Layout extends React.Component {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(24),
+          maxWidth: rhythm(40),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
         <header>{header}</header>
-        <main>{children}</main>
+        <main
+          style={{
+            maxWidth: rhythm(24),
+            marginLeft: `auto`,
+            marginRight: `auto`
+          }}
+        >{children}</main>
         {/* <footer>
           © {new Date().getFullYear()}, Built with
           {` `}

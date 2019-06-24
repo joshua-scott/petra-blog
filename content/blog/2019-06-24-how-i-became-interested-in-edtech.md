@@ -7,11 +7,7 @@ My story started when I was 15, that means 10 years ago. I took a vocational sch
 
 The kindergarten became my second home. For the next 5 years, I was visiting every single possible time and also did a couple of my other practices for the vocational school and university there. I was active and tried to create different tools made for individuals or for the group of children with autism.
 
-![A paper box with 6 different colours and shapes matching the colours](/img/20150210_164111.jpg "Shapes and colours box - children have to put the right shape and colour to the right hole")
-
 ![A long blue cardboard with 6 clocks place vertically under each other with a photo of the specific part of the day.](/img/pomucky-1.png "A tool for better understanding of time.")
-
-![Three laminated papers with high background contrast, with windows for matching fruits, clothes and domestic animals.](/img/20160628_204441.jpg "A tool for children with autism and visual impairment (high contrast). ")
 
 There were about 4 children with whom I had such a connection. The last child I intensively worked with was a 3 year old boy with autism. It was tough for him to work with others, and he also had behavioural problems. But with me, it was all okay because I made it clear that I understand him and that I really care --- you wouldn’t believe that, but that’s basically the secret. The last day came pretty fast, and it was difficult. He was supposed to leave to a new kindergarten, and I was supposed to move to Finland and do my Erasmus. You probably hear from everywhere that children with autism have problems in understanding emotions, but he was just so aware of what was happening it was unbelievable. He didn’t want to spend a minute with me and was hiding from me the whole day. It was about the time his parents were supposed to pick him up, and he looked at me, ran to me, hugged me like never and started crying. And I didn’t handle it very well. I started crying too, but after a minute I realised I was supposed to be the adult and I had to put myself together. I did it, for a couple of minutes I was the strong adult, and then he left crying with his dad. I was broken-hearted, and it still makes me want to cry even today. 
 

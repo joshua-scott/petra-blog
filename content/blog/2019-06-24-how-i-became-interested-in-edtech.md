@@ -1,9 +1,7 @@
 ---
 title: How I became interested in EdTech
 date: 2019-06-24T06:00:51.798Z
-description: >-
-  A story about the last decade of my life describing the journey towards my
-  interested in EdTech
+description: A story about the last decade of my life describing my journey towards EdTech
 ---
 My story started when I was 15, that means 10 years ago. I took a vocational school path, and since I’ve always wanted to help people, I chose a social-humanitarian field of study. What does the social-humanitarian mean? It included bits of gerontology, special education, arts, general education, biology and personal assistance. You can probably imagine how broad but at the same time complex it was. Well, in the second year of our studies, we were supposed to find a practice, and I decided to go to a kindergarten for children with special needs. I spent there two weeks being beaten by a boy with autism spectrum disorders, and I was exhausted. However, at the end of the practice, something has changed. I realised he only wanted my attention all time long and I finally gave it to him. The beating stopped, and we suddenly had a strong connection. And that was the time when I fell in love with autism. I knew this was what I was supposed to do. 
 

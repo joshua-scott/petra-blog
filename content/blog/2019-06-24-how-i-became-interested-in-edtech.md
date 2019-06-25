@@ -29,7 +29,7 @@ It’s June 2019, I’m currently working on getting the start-ups to the event 
 
 
 
-Check out the blog posts I wrote for <http://www.daretolearn.fi/blog/want-to-reach-the-world-of-learning-startup-booths-for-sale-now >and <http://www.daretolearn.fi/scandinaviangesawards.html>
+Check out the blog posts I wrote for <http://www.daretolearn.fi/blog/want-to-reach-the-world-of-learning-startup-booths-for-sale-now> and <http://www.daretolearn.fi/scandinaviangesawards.html>
 
 
 

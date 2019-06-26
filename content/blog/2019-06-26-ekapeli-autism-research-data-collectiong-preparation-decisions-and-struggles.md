@@ -1,0 +1,28 @@
+---
+title: >-
+  Ekapeli & Autism research data collectiong preparation - decisions and
+  struggles
+date: 2019-06-26T08:54:24.698Z
+description: >-
+  Summary of the preparation for my master's thesis data collection on Ekapeli &
+  Autism
+---
+If you had a chance to read my previous post about “How I became interested in EdTech”, you know what I’m going to talk about. For those who have no idea, check the previous post: <https://inclusiveedtech.com/2019-06-24-how-i-became-interested-in-edtech/>
+
+Firstly, I would like to explain what Ekapeli is. It is a Finnish version of gamified reading intervention focused on learning letter sounds correspondences (grapheme-phoneme), which are the building blocks of reading skill. The English version of the game is called GraphoLearn, although you might find a game called GraphoGame as well. Initially, the idea was developed in Jyväskylä, Finland by the University of Jyväskylä (JYU), Agora Center and Niilo Mäki Institute. To my understanding, the rights to the game were bought by now called Grapho Group, and now there is one academic and one privatised version of the game with separate developments. I’ve been working with the academic version and hence cooperating with personnel from JYU and Niilo Mäki Institute, who have been more than amazing and helpful with all my issues and requests. 
+
+In this post, I would like to describe the preparation process that had to be done before starting my research data collection. It required lots of learning about new technology and combining several types of data collections. Moreover, that all was done to create a decent qualitative pilot study that I wouldn’t need to be ashamed of. 
+
+The only thing I knew when I started with my research preparation was that I will work with Ekapeli and that I will test it somehow with children with autism. At the beginning I had no idea how I am going to do this; it was all one big unknown in my head. Only one thing was clear to me; I knew I wanted to see whether the Ekapeli provides a suitable interface for children with autism. That is why I had a meeting with the main person responsible for the technological game development, Ulla Richardson. We discussed the different versions of the games, the log data and the available assessments embedded within the different versions. Based on our conclusions, I chose to work with Ekapeli Maahanmuuttaja (a version for immigrant) and that simply because it was the only simplistic version that had a letter assessment embedded within itself. That meant that my life was going to be a little bit easier, and I wouldn’t need to do any extra manual letter assessment with the kids. 
+
+After this all was clear, I had a few meetings with my supervisor, Markku Leskinen, who has been by the way very innovative and genuine support during this research process. We were discussing many options until he suggested using an eye tracking software together with other data collections. I was so excited because I thought that eye movement tracking wasn’t even an option for a master’s level research. My supervisor gave me a contact on Jarkko Hautala from Niilo Mäki Institute, and he gave me an introduction to the SMI eye tracking software and hardware. From this point, I had spent hours learning to work with the software and tried to discover all possible ways on how to use and analyse the data.
+
+Another big part of the research was to create all consent forms and privacy notices that included everything related to GDPR. Honestly, this took me at least two weeks; it was simply too complicated. I also had to apply for a research permit from the city where I was planning to collect the data. It was a stressful and lengthy process. The application itself wasn’t that complicated, but it took them more than a month to even process the application. In the end, it was only one of the many complications I had to face during my research (will talk about this in the later blog posts focused on the data collection process).
+
+The last thing I had to think of before being able to start collecting my data, was how to create a whole-some picture about the children and their experience with Ekapeli by combining a suitable set of data. I ended up with seven different data collection methods and was ready to use them all. There were: log data from Ekapeli, eye movement screen recording, video recording, child self-assessment, daily teacher assessment, parent questionnaire, and teacher questionnaire. Yeah, it sounds pretty huge for just a master’s thesis, but well, I’m a bit extreme when it comes to choosing on how I will work on something that matters to me. 
+
+Well, that was the summary of the pre-data collection process of my master’s thesis and how much had to be done. It was a long and stressful process; I have to say that. However, at the same time, it was worth it, and I can say that I’ve been enjoying my master’s thesis research so far.
+
+You can check more information about the Ekapeli/Graphogame \*here\* https://www.graphogame.com/contact.html
+
+Next post will be focused on the process of data collection or my Dare to Learn to volunteer, let’s see! Have a great day, you all!

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Ekapeli & Autism research data collectiong preparation - decisions and
+  Ekapeli & Autism research data collection preparation - decisions and
   struggles
 date: 2019-06-26T08:54:24.698Z
 description: >-

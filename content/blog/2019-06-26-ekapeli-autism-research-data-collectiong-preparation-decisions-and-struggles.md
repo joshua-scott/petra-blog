@@ -21,6 +21,6 @@ The last thing I had to think of before being able to start collecting my data, 
 
 Well, that was the summary of the pre-data collection process of my master’s thesis and how much had to be done before actually starting the fieldwork. It was long and stressful; I have to say that. However, at the same time, it was worth it, and I can say that I’ve been enjoying my master’s thesis research so far.
 
-You can check more information about the Ekapeli/Graphogame here: https://www.graphogame.com/contact.html
+You can check more information about the Ekapeli/Graphogame here: https://info.grapholearn.com/
 
 Next post will be focused on the Ekapeli & Autism data collection or my Dare to Learn volunteering experience, let’s see! Have a great day, you all!

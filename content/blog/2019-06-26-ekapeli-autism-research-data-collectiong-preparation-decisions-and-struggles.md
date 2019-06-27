@@ -1,7 +1,5 @@
 ---
-title: >-
-  Ekapeli & Autism research data collection preparation - decisions and
-  struggles
+title: Ekapeli & Autism research preparation - the decisions and struggles
 date: 2019-06-26T08:54:24.698Z
 description: Summary of the preparation for the data collection part of my master's thesis
 ---

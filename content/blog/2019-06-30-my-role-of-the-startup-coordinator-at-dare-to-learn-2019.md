@@ -1,5 +1,5 @@
 ---
-title: My role of the startup coordinator at Dare to Learn 2019
+title: Role of the startup coordinator at Dare to Learn 2019
 date: 2019-07-01T07:00:00.000Z
 description: >-
   Talking about the first two months of being involved with Dare to Learn and

@@ -1,7 +1,7 @@
 ---
 title: Ekapeli & Autism research preparation - the decisions and struggles
 date: 2019-06-26T08:54:24.698Z
-description: A summary of preparation for the data collection part of my master's thesis
+description: Description of preparation for the data collection part of my master's thesis
 ---
 If you had a chance to read my previous post about “How I became interested in EdTech”, you know what I’m going to talk about. For those who have no idea, you can check the previous post here: https://inclusiveedtech.com/2019-06-24-how-i-became-interested-in-edtech/
 

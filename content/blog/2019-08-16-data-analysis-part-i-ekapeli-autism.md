@@ -2,7 +2,7 @@
 title: Data Analysis Part I - Ekapeli & Autism
 date: 2019-08-16T11:14:01.290Z
 description: >-
-  Part one of the data analysis process - technical difficutlies, softwares and
+  Part one of the data analysis process - technical difficulties, softwares and
   solutions
 ---
 Ekapeli & Autism Data Analysis Process Part I

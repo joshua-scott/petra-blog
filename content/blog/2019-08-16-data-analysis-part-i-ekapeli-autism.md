@@ -5,7 +5,7 @@ description: >-
   Part one of the data analysis process - technical difficulties, softwares and
   solutions
 ---
-In the previous post, I talked about the data collection part of my research. In case you haven’t read the last post, check it out but to conclude, the data collection was challenging, but finally, I managed.
+In the previous post, I talked about the data collection part of my research. In case you haven’t read the last post, check it out so you can keep up with my progress!
 
 In this post, I would like to talk about the data analysis and all the software that was required to get through it. Firstly, I had to get my eye movement videos from the “great” SMI laptop that I used for my data collection. And I guess you won’t be surprised to hear that it was not easy. Everything regarding the SMI software has been so complicated. I came to Kärki building in Jyväskylä, where I had a technician’s support in case something goes wrong. It went wrong, and even the technician had no idea how is that possible. Initially, I was supposed to click the “import” button and then get ready videos with the recorded background of the screen, the mouse clicks and the eye movements. It was not enough that the background didn’t get recorded in any of the videos, but there were some issues with the license and codecs in that laptop, and it didn’t allow me to download the videos from the data I collected. I had spent there 3 hours, trying other laptops which didn’t work, changing different settings and options but nothing. The technician tried all of these as well in case I was just a stupid person and was missing something, but nothing. 
 

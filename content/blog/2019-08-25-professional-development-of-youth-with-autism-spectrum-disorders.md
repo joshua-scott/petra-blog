@@ -1,0 +1,18 @@
+---
+title: Professional development of youth with Autism spectrum disorders
+date: 2019-08-25T12:34:04.193Z
+description: >-
+  A new platform for professional development and its potential usability by
+  youth with Autism spectrum disorders.
+---
+Hello everyone! Hope your day is going well! I have reported all I have about my research and the analysis and more will come later. Meanwhile, I had to think about what I’m going to write about. It took me a while to find something worth writing about. And then it finally hit me, I was listening to Sophie Bailey’s podcast called The EdTech Podcast last evening on my way home from Dare to Learn meeting. The podcast episode was called Pioneers and Settlers, and you can find it under #158.
+
+At the end of the podcast, I suddenly heard man talking about a cool platform that should help young people in their carrier skills development. It doesn’t sound that unusual, does it? But wait! As a platform compared it to Spotify, which made me listen. You can mix up your own “playlist” of skills you would want to develop and learn and follow your peers to find inspiration. And then it hit me, I think it could be handy for youth with autism spectrum disorder. Why? Well, because they might often struggle with choosing their carrier path and also with being motivated by their peers. You may think, well, they should go and study something for their professional development, but nowadays, that’s not enough. It happens quite often, even a skilful home learner without a degree can get a job over the one who just graduated from a prestige university. 
+
+But let’s get back to the platform and its functions, and how can it be beneficial to youth with autism spectrum disorders (ASD). Firstly, it’s called Potential.ly, and you can check their website here: https://home.potential.ly/. The first function I would want to underline is the fact that you can simply follow and capture your everyday learning. That makes it easy to see the visualisation of your and your peers' progress. This might assist youth with ASD with their inner motivation and also their social motivation. When it comes to social motivation, people with ASD don’t act on social rewards as much as other people do, and even their social interaction is usually not as smooth as in other people. Hence, I believe, lower social motivation might influence their views on life or work skills. The social motivation is however expressed by usage of charts and numbers on this platform and might make it easier to understand or use by youth with ASD. 
+
+In addition to the social motivation design feature of the platform, they offer some sort of rewarding system and gamification. These two areas are essential when it comes to the motivation and effectiveness of the apps used by people with ASD. I wish I could see the whole functioning of the platform to be able to assess the usability fully. Although, I believe that for some young individuals with ASD it might be worth trying it. 
+
+On the other hand, there is a function of a self-assessment that adapts the content to every learner. I’m not sure to what extent would some individuals be able to assess their own skills objectively. Also, I’m not sure what kind of type of self-assessment are they using. Hopefully, they are using some sort of questionnaire that is easy to use, although I believe that in case of need, anyone can always ask help from their parents or friends.
+
+Overall, I think it would be worth trying such a platform for personal development of youth with ASD. Following a person’s own life and skills set might help and support their personal development, motivation and possibly help them with gaining a job placement and hence support their independence.

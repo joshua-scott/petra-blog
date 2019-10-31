@@ -5,7 +5,7 @@ description: >-
   Accessibility testing of Apple's Voice Control feature, underlining its
   functionality and issues, and comparing with Windows' Speech Recognition
 ---
-I would like you to stop for a second and imagine how would you manage to read this post while not being able to move your arm/hand to put it on the mouse to scroll through this text. How would you even be able to get to this text if not being able to use the mouse? There are few ways how to tackle such issues and allow people with limited mobility to use laptops, computers or phones.
+I would like you to stop for a second and imagine how would you manage to read this post while not being able to move your arm/hand to scroll through this text. How would you even be able to get to this text if not being able to use the mouse? There are few ways how to tackle such issues and allow people with limited mobility to use laptops, computers or phones.
 
 There is a variety of disabilities that might affect a person's ability to move, such as cerebral palsy, spinal injuries, atrophies, missing or underdeveloped arms and others. Despite such mobility issues, not all individuals' pronunciation and speech becomes impaired. In such cases, accessibility features like voice control or speech recognition might be used to assist these people while using laptops or phones.
 

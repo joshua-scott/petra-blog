@@ -1,6 +1,6 @@
 ---
 title: Early Intervention services in the Czech Republic
-date: 2019-11-05T20:19:53.237Z
+date: 2019-11-06T08:00:53.237Z
 description: >-
   How do the Early Intervention services in the Czech Republic work? Are they
   using assistive tools and technology?

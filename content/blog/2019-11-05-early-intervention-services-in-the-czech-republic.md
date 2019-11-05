@@ -67,4 +67,4 @@ Yes, definitely! It's a fantastic service that helps families in challenging sit
 
 It's a beautiful job, but it's time-consuming and psychologically demanding! It needs diligence and lots of self-criticisms to prevent counsellors from stopping professional growth and self-development. The financial support is discussed a lot in the Czech Republic, and it should improve. Also, one of the biggest positives of this job is helping families with children with hearing impairment and showing them that their child is "normal".
 
-Wow! What a fanstastic interview! I hope you have learnt something new about the Early Intervention services in the Czech Republic. Now I would like to hear about similar services in your coutries, are they even existing? Let me know on \[Twitter](https://twitter.com/petra_kucharova) !
+Wow! What a fanstastic interview! I hope you have learnt something new about the Early Intervention services in the Czech Republic. Now I would like to hear about similar services in your coutries, are they even existing? Let me know on [Twitter!](https://www.twitter.com/petra_kucharova)

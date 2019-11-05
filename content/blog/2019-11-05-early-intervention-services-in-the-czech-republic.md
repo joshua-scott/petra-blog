@@ -54,7 +54,9 @@ The most recommended is an application called "Znakujte s námi" (sign with us),
 **8. Could you name three things you would improve regarding Early Intervention services?**
 
 •	Financial support
+
 •	Availability of other, usually more expensive assistive tools
+
 •	Screening in new-borns – to assure that they will get to us as soon as possible
 
 **9. Would you recommend this service to people abroad, should they create something similar in their countries?**

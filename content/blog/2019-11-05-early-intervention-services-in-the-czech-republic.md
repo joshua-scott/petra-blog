@@ -5,7 +5,7 @@ description: >-
   How do the Early Intervention services in the Czech Republic work? Are they
   using assistive tools and technology?
 ---
-Hello everybody! This time I decided to tell you a little about Czech social service called Early Intervention. Despite the fact that it is pretty much my bachelor degree, I decided to do an interview with an early intervention counsellor, my best friend and amazing person dedicated to this topic Markéta Lokajová. Firstly, I asked her to introduce herself and then to answer my questions about their services, assistive tools and technology. So here we go! 
+Hello everybody! This time I decided to tell you a little about Czech social service called Early Intervention. Despite the fact that it is pretty much my bachelor degree, I decided to do an interview with an early intervention counsellor, my best friend and amazing person dedicated to this topic Markéta Lokajová. I asked her to introduce herself and then to answer my questions about their services, assistive tools and technology. So here we go! 
 
 ![A picture of a blond woman called Marketa Lokajova](/img/market.jpeg "Markéta Lokajová")
 

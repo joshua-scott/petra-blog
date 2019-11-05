@@ -13,7 +13,7 @@ Hello, I’m Markéta, and I’m 25 years old. I work as a counsellor in Early I
 
 Isn’t she amazing? I told you so. Now let’s learn something about how the Early Intervention services work and what kind of technology are they using and how.
 
-**1. How would you introduce an Early Intervention (EI) service, in the Czech language "Raná péče", to a person who has never heard of it?**
+**1. How would you introduce an Early Intervention (EI) service** (in the Czech language "Raná péče") **to a person who has never heard of it?**
 
 EI is a social service provided by non-governmental and non-profit organisations that are financially supported by the Ministry of Labour and Social Affairs. This allows EI to offer their services to all families with prematurely born children or babies with disabilities. The EI service is free of charge and can be provided to a family during the first 7 years of a child's life. After the age of 7, new social services or school _facilities*_ replace the Early Intervention service.
 

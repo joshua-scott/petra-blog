@@ -31,7 +31,9 @@ As I mentioned, our IE's priority is hearing impairment. Hence, in case a child 
 
 Well, my typical day – it's quite tricky since every day is a unique one. However, if I would need to generalise, my usual workday would probably look something like this:
 
-As the first thing in the morning, I'm preparing for individual consultations. The preparation is based on what we discussed at our previous meeting with the family or based on what the family is currently dealing with. To help us navigate through each family journey, we create an individual plan with each of them. This plan has one-year goals, and together with the family, we are trying to fulfil them. After that, I'm preparing activities based on the child's age, and finally, I take clients folder and hit the road. We are operating all around Moravia, Silesia, Vysočina and Pardubice region; hence, we usually spend a lot of time travelling. 
+As the first thing in the morning, I'm preparing for individual consultations. The preparation is based on what we discussed at our previous meeting with the family or based on what the family is currently dealing with. To help us navigate through each family journey, we create an individual plan with each of them. This plan has one-year goals, and together with the family, we are trying to fulfil them. After that, I'm preparing activities based on the child's age, and finally, I take clients folder and hit the road. We are operating all around Moravia, Silesia, Vysočina and Pardubice region. Hence, we usually spend a lot of time travelling (see the map below for orientation, Olomouc office located in Olomouc Region).
+
+![Map of the Czech Republic divided to regions](/img/czech_rep._-_bohemia-_moravia_and_silesia_iii_-en-.png "Bohemia, Moravia and Silesia (2011)")
 
 The consultations take places in the families' environment, and upon arriving, I explain to the parents what is today's plan and the consultation can start. Each session lasts approximately one hour and a half, but it's possible to make it even 3 hours long if needed. At the end of each consultation, we agree on the next date for our meeting.
 
@@ -68,3 +70,7 @@ Yes, definitely! It's a fantastic service that helps families in challenging sit
 It's a beautiful job, but it's time-consuming and psychologically demanding! It needs diligence and lots of self-criticisms to prevent counsellors from stopping professional growth and self-development. The financial support is discussed a lot in the Czech Republic, and it should improve. Also, one of the biggest positives of this job is helping families with children with hearing impairment and showing them that their child is "normal".
 
 Wow! What a fanstastic interview! I hope you have learnt something new about the Early Intervention services in the Czech Republic. I would like to hear from you! Are there any similar services in your coutries? Let me know on [Twitter!](https://www.twitter.com/petra_kucharova)
+
+**References:**
+
+Bohemia, Moravia and Silesia (2011). Retrieved from https://en.wikipedia.org/wiki/Czech_lands#/media/File:Czech\_Rep.\_-_Bohemia,_Moravia_and_Silesia\_III\_(en).png

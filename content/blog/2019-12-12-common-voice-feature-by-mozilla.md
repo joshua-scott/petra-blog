@@ -1,5 +1,5 @@
 ---
-title: Common Voice feature by Mozilla
+title: Common Voice project by Mozilla
 date: 2019-12-12T13:08:34.227Z
 description: >-
   Introducing the excellent initiative lead by Mozilla that helps create a rich
